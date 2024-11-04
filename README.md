@@ -1,3 +1,6 @@
+![Screenshot from 2024-11-03 01-20-07](https://github.com/user-attachments/assets/2cb4ff3d-18b5-48b4-b576-144261d6cfcb)
+
+
 # Quick Start
 ## Start Sniffing
 There's a green start button on the top left that starts a sniffing thread.
