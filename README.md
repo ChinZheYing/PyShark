@@ -1,5 +1,9 @@
 ![Screenshot from 2024-11-03 01-20-07](https://github.com/user-attachments/assets/2cb4ff3d-18b5-48b4-b576-144261d6cfcb)
 
+# Introduction
+This is a personal project made to understand network packets at the lowest level. It's my attempt to make a portable app that is enough to replace Wireshark for simple common tasks hence it uses only standard python libraries (tkinter might not be installed by default on some systems but it is a standard library). 
+
+All packets captured are saved as a Packet class which handles all the decoding and formatting. You might see some unused code that says packet crafting but don't worry about it as it is just there for future use. Startubg the sniffer will always start a new thread to prevent blocking tkinter using the Sniffer class.
 
 # Quick Start
 ## Start Sniffing
