@@ -33,13 +33,17 @@ You can use and/or with brackets for multiple filters. MAKE SURE YOU ONLY INCLUD
 Essentials:
 1. PCAP format support
 2. More common protocols such as DNS, ICMP and HTTP
+
 Not so urgent:
 1. Interface selection
+
 Quality of life:
 1. Hex and Ascii highlight when data in tree is clicked
+   
 ### Planned
 Essentials:
 1. TCP streams
 2. HTTPS support
+   
 Quality of life:
 1. Details tree selection when Hex or Ascii is clicked
